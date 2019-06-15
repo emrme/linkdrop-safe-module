@@ -12,7 +12,6 @@
   </a>
 </p>
 
-
 ## Install dependencies
 
 ```sh
@@ -36,12 +35,6 @@ yarn test
 ```sh
 yarn server
 ```
-
-## Maintainers
-
-**Amir Jumaniyazov**
-
-* Github: [@amiromayer](https://github.com/amiromayer)
 
 ## Contributing
 
